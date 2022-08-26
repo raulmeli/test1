@@ -1,1 +1,1 @@
-probando zsh desde iterm
+probando terminal sin más
